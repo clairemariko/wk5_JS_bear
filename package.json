@@ -1,0 +1,15 @@
+{
+  "name": "bear_play",
+  "version": "1.0.0",
+  "main": "bear_play.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
